@@ -1,0 +1,42 @@
+.img{
+	background-image: url(image.jpeg);
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+span{
+	border: 1px solid rgba(201, 219, 0, 1);
+	border-radius: 20px;
+	background-color: rgba(201, 219, 0, 1);
+	color: black;
+
+}
+.head1{
+	border-top:2px solid black; 
+}
+#mar{
+	margin: 20px;
+}
+#btn{
+	background-color: rgba(201, 219, 0, 1);
+		color: black;
+		border: 1px solid rgba(201, 219, 0, 1);
+		border-radius: 8px;
+}
+
+.custom-select{
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+i{
+	font-size: 40px;
+	padding: 10px;
+}
+#colh{
+	color:yellowgreen;
+}	
+.form-control{
+	background:white;
+}
+.ip{
+	background: none;
+}
